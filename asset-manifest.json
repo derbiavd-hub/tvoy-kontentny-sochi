@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sochi-mini-app/static/css/main.1729b45f.css",
+    "main.js": "/sochi-mini-app/static/js/main.b9a01a33.js",
+    "index.html": "/sochi-mini-app/index.html",
+    "main.1729b45f.css.map": "/sochi-mini-app/static/css/main.1729b45f.css.map",
+    "main.b9a01a33.js.map": "/sochi-mini-app/static/js/main.b9a01a33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1729b45f.css",
+    "static/js/main.b9a01a33.js"
+  ]
+}
